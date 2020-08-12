@@ -21,4 +21,8 @@ public class DemoController {
 		return rep.save(enty);
 	}
 
+	public String get() {
+		return "well come ";
+	}
+	
 }
